@@ -1,3 +1,4 @@
+// Converter of distance
 #include<stdio.h>
 int main()
 {
@@ -8,9 +9,9 @@ int main()
     ft = km * 3280.84;
     in = km * 39370.1;
     cm = km * 100000;
-    printf("Distance in Meter: %.2f m\n",m);
-    printf("Distance in Feet: %.2f ft\n",ft);
-    printf("Distance in Inches: %.2f in\n",in);
-    printf("Distance in Centimeter: %.2f cm\n",cm);
+    printf("Distance in Meter:\t %.2f\t m\n",m);
+    printf("Distance in Feet:\t %.2f\t ft\n",ft);
+    printf("Distance in Inches:\t %.2f\t in\n",in);
+    printf("Distance in Centimeter:\t %.2f\t cm\n",cm);
     return 0;
 }

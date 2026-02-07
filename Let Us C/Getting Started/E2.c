@@ -1,3 +1,4 @@
+//area and perimeter calculator
 #include<stdio.h>
 int main()
 {
