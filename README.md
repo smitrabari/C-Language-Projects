@@ -27,4 +27,5 @@ concepts and build a solid foundation for future development and DSA.
 
 ## 🧑‍💻 Maintained By 
  [**Smit Rabari**](https://github.com/smitrabari)  
- ![X logo](https://pngimg.com/uploads/x_logo/x_logo_PNG17.png){width=200px height=150px}
+ [<img src="https://pngimg.com/uploads/x_logo/x_logo_PNG17.png" style="width: 5%; height: auto;" alt="Alt text">](https://x.com/smittrabarii)
+ [<img src="https://pngimg.com/uploads/linkedIn/small/linkedIn_PNG1.png" style="width: 3.75%; height: auto;" alt="Alt text">](https://www.linkedin.com/in/smitrabari/)
