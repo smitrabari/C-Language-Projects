@@ -1,10 +1,10 @@
+// program to reverse a number
 #include<stdio.h>
-
 int main()
 {
     int d1,d2,d3,d4,d5,n;
     long int revnum;
-    printf("Enter a Number : ");
+    printf("Enter a Number(upto 5 digits) : ");
     scanf("%d",&n);
     d5=n % 10;
     n= n / 10;

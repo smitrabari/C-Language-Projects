@@ -1,3 +1,4 @@
+// Program to calculate distance between two points on Earth 
 #include<stdio.h>
 #include<math.h>
 int main()
@@ -12,7 +13,7 @@ int main()
     scanf("%d",&g1);
     printf("Enter G2 : ");
     scanf("%d",&g2);
-    
+    // formula to calculate distance between two points on Earth
     D = 3963*acos(sin(l1)*sin(l2)+cos(l1)*cos(l2)*cos(g1-g2));
     printf("The Distance will be : %f miles",D);
     return 0;

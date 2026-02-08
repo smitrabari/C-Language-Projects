@@ -1,3 +1,4 @@
+// Program to swap two numbers without using a temporary variable
 #include<stdio.h>
 int main()
 {
@@ -7,7 +8,7 @@ int main()
     printf("Enter B no. - ");
     scanf("%d",&b);
     x = a + b;
-    a = x - a;
+    a = x - a; 
     b = x - b;
     printf("A = %d and B = %d",a,b);
     return 0;
