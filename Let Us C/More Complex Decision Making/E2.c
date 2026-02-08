@@ -1,3 +1,4 @@
+// CMYK color model conversion from RGB values
 #include<stdio.h>
 #include<math.h>
 int main()

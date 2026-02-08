@@ -1,3 +1,4 @@
+// Figureing out the type of triangle based on the sides given by the user.
 #include<stdio.h>
 int main()
 {
