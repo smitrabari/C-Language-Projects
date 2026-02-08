@@ -1,3 +1,4 @@
+// Overtime pay calculation for 10 employees based on hours worked.
 #include<stdio.h>
 int main()
 {

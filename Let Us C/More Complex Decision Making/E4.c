@@ -1,4 +1,4 @@
-// BMI calculation and categorization based on weight and height
+// BMI calculation and categorization based on weight and height.
 #include<stdio.h>
 #include<math.h>
 int main()

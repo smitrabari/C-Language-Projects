@@ -1,3 +1,4 @@
+// Program to convert a decimal number to octal using a while loop in C.
 #include<stdio.h>
 
 int main()

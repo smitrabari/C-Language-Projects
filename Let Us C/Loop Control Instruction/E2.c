@@ -1,3 +1,4 @@
+// Program to find and print all Armstrong numbers between 100 and 500 using a while loop in C.
 #include<stdio.h>
 int main()
 {

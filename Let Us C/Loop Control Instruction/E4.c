@@ -1,3 +1,4 @@
+// Program to count the number of positive, negative, and zero values entered by the user.
 #include<stdio.h>
 int main()
 {

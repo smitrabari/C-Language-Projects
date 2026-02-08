@@ -1,3 +1,4 @@
+// Matchstick game implementation in C where the user plays against the computer.
 #include <stdio.h>
 
 int main()

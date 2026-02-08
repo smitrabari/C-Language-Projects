@@ -1,3 +1,4 @@
+// Program to find the range of a set of numbers entered by the user in C.
 #include <stdio.h>
 
 int main()
