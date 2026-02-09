@@ -1,3 +1,4 @@
+// C program to print prime factors of a given number using function.
 #include <stdio.h>
 #include <math.h>
 

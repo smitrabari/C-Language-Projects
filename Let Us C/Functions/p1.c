@@ -1,3 +1,4 @@
+// Factorial of a number using function.
 #include<stdio.h>
 int fact (int n);
 int main()

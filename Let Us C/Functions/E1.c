@@ -1,3 +1,4 @@
+// Check whether a given year is leap year or not using function.
 #include<stdio.h>
 int leap(int yr);
 int main()

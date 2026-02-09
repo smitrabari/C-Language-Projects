@@ -1,3 +1,4 @@
+// Power of a number using function.
 #include<stdio.h>
 #include<math.h>
 int sq(int a,int b);
