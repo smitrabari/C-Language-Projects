@@ -7,6 +7,7 @@ int main()
     scanf("%f",&rbs);
     da = rbs * 0.4;
     hra = rbs * 0.2;
+    // Gross Salary = Ramesh Basic Salary + Dearness Allowance + House Rent Allowance
     gs = rbs + da + hra;
     printf("Dearness Allowance (DA) :\t %.2f\t\n",da);
     printf("House Rent Allowance (HRA) :\t %.2f\t\n",hra);

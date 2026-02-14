@@ -5,6 +5,7 @@ int main()
     int m1,m2,m3,m4,m5,agg;
     float per;
     printf("---Marks Calculator---\n");
+    printf("NOTE- Marks Should be out of 100\n");
     printf("Enter marks of 1 subjects: ");
     scanf("%d",&m1);
     printf("Enter marks of 2 subjects: ");
