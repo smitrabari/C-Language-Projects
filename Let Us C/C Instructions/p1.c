@@ -1,6 +1,7 @@
-// Calulator for finding area of Triangle
+// Calculator to find the area of triangle!!
 #include<stdio.h>
 #include<math.h>
+#include<conio.h>
 
 int main()
 {
@@ -11,10 +12,11 @@ int main()
     scanf("%f",&b);
     printf("Enter Third Side of Triangle : ");
     scanf("%f",&c);
-    //Semi-perimeter 
+    //Finding Semi-perimeter of triangle.
     sp = (a + b + c) / 2;
-    //actual Formula to calculate area
+    //Actual Formula to calculate area
     area = sqrt(sp*(sp-a)*(sp-b)*(sp-c));
     printf("The Area of triangle is : %.2f",area);
+    getch();
     return 0;
 }

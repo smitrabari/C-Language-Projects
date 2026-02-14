@@ -1,7 +1,7 @@
 // Program to calculate trigonometric functions for a given angle
 #include<stdio.h>
 #include<math.h>
-#define PI 3.14159265358979323846
+#define PI 3.14159265358979323846 // Constant value of PI
 int main()
 {
     double ang,rad;

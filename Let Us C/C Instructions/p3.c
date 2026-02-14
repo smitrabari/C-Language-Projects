@@ -1,5 +1,6 @@
 //Cash notes Calculator program
 #include<stdio.h>
+#include<conio.h>
 int main()
 {
     int nohun,nofif,noten,notwo,noone;
@@ -21,5 +22,6 @@ int main()
     amount = amount % 1;
     notes = nohun + nofif + noten + notwo + noone;
     printf("Total no. of notes will be : %d",notes);
+    getch();
     return 0;
 }
