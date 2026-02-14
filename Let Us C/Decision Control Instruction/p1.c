@@ -1,12 +1,12 @@
-// profit and loss calculator
+// Profit and Loss calculator.
 #include<stdio.h>
 int main()
 {
     float cp,sp,p,l;
     printf("Enter Cost price : ");
-    scanf("%f",&cp);
+    scanf("%f",&cp); // cp = cost price
     printf("Enter Selling price : ");
-    scanf("%f",&sp);
+    scanf("%f",&sp); // sp = selling price
     p=sp-cp; // profit
     l=cp-sp; // loss
     if(p>0)

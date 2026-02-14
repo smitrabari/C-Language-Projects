@@ -7,6 +7,7 @@ int main() {
     printf("Enter actual number is: ");
     scanf("%d",&num);
     absolute_num = abs(num); 
+    //just like modulas in math this converts negative number to positive and positive number remain same.
     printf("The absolute value is: %d\n", absolute_num);
     return 0;
 }

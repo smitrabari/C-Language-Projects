@@ -4,7 +4,7 @@ int main()
 {
     int year;
     printf("Enter a year : ");
-    scanf("%d",&year);
+    scanf("%d",&year); // this can easy when use logical operator{&& and ||}.
     /* if a year is divisible by 4 then it is a leap year 
     but if it is divisible by 100 
     then it should be divisible by 400 to be a leap year.*/
