@@ -14,7 +14,7 @@ int main()
     printf("Enter No. of Subject You Failed - ");
     scanf("%d",&f);
     
-    switch(c)
+    switch(c) // switch case statement to handle different cases based on user's choice
     {
         case 1:
         if(f>3)
