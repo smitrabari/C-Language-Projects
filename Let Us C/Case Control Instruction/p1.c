@@ -1,3 +1,7 @@
+/*C program to demonstrate the use of switch case statement.
+The program provides a menu to the user to choose from different options
+ like calculating factorial, checking if a number is prime or not,
+ and checking if a number is odd or even.*/
 #include<stdio.h>
 #include<stdlib.h>
 

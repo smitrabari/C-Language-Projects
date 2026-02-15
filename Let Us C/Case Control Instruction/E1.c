@@ -1,3 +1,5 @@
+// C program to demonstrate the use of switch case statement.
+// The program provides a menu to the user to choose from different options
 #include<stdio.h>
 int main()
 {
