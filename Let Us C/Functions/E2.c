@@ -8,6 +8,7 @@ void printPrimeFactors(int n) {
         printf("%d ", 2);
         n = n / 2;
     }
+    // ^ from there we will get no. of 2s that divide n
 
     // n must be odd at this point. So we can skip one element (i = i + 2)
     for (int i = 3; i <= sqrt(n); i = i + 2) {
@@ -16,6 +17,7 @@ void printPrimeFactors(int n) {
             printf("%d ", i);
             n = n / i;
         }
+        // ^ from there we will get no. of i's that divide n{remaining odd factors}
     }
 
     // If n is a prime number greater than 2

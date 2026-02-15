@@ -1,15 +1,15 @@
 // Check whether a given year is leap year or not using function.
 #include<stdio.h>
-int leap(int yr);
+int leap(int yr); // Function prototype.
 int main()
 {
     int yr;
     printf("Enter Year : ");
     scanf("%d",&yr);
-    leap(yr);
+    leap(yr); // Function call.
     return 0;
 }
-int leap(int yr)
+int leap(int yr) // Function definition.
 {
     if (yr % 4 == 0)
     {
