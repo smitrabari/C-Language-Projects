@@ -8,6 +8,7 @@ int main()
     printf("Enter x - ");
     scanf("%f",&x);
     sum = (x-1)/x;
+    
     for(int i=2;i<=7;i++)
     {
         sum = sum + 0.5 * pow((x-1)/x,i);

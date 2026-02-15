@@ -9,7 +9,7 @@ int main()
         {
             for(z=y;z<=30;z++) // to avoid repetition of same triplet in different order, we start z from y
             {
-                if((x*x)+(y*y)==(z*z))
+                if((x*x)+(y*y)==(z*z)) // checking the condition for Pythagorean triplet
                 {
                     printf("(%d,%d,%d)\t\n",x,y,z);
                 }

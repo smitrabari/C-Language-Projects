@@ -6,7 +6,7 @@ int main()
     int q,n;
     float r,p,a;
     printf("---Welcome to Compound Intrest Calculator---\n");
-    for(int i=1;i<=10;i++)
+    for(int i=1;i<=10;i++) // Loop to calculate compound interest for 10 different sets of values
     {
         printf("Enter I.C. times per year - ");
         scanf("%d",&q);
