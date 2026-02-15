@@ -1,4 +1,5 @@
 // Program to find the range of a set of numbers entered by the user in C.
+// Good question for practicing loop control instructions and conditional statements.
 #include <stdio.h>
 
 int main()
