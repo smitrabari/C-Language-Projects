@@ -5,6 +5,7 @@ int main()
 {
     int x,y,r;
     float q;
+    
     printf("Enter co-ordinates\nX - ");
     scanf("%d",&x);
     printf("Y - ");
