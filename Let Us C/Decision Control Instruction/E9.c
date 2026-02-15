@@ -1,4 +1,5 @@
 // A program to find the day of the week for a given date.
+// Very Important question from the book "Let Us C" by Yashvant Kanetkar.
 #include <stdio.h>
 
 int main()
