@@ -1,3 +1,4 @@
+// Write a program to calculate compound interest for 10 different sets of values.
 #include<stdio.h>
 #include<math.h>
 int main()
@@ -17,7 +18,7 @@ int main()
         printf("Enter Principal Compound - ");
         scanf("%f",&p);
         a = p * pow( 1 + (r / q),n*q);
-        printf("Amount = %.2f\n",a);
+        printf("Amount = %.2f\n\n",a);
     }
     return 0;
 }

@@ -1,3 +1,6 @@
+/*Write a program to find the population of a city after a decade 
+if the population increases at the rate of 10% per annum 
+and the current population is 100000.*/ 
 #include<stdio.h>
 int main()
 {

@@ -1,3 +1,7 @@
+/*Clock is a device used to measure and indicate time.
+It is a common observation that the clock shows 12:00 at noon and midnight.
+Write a program to print the time in 24-hour format along with 
+the corresponding 12-hour format and the indication of AM, PM, NOON, or MIDNIGHT.*/
 #include<stdio.h>
 #include<math.h>
 int main()

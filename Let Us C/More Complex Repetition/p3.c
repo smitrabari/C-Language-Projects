@@ -1,8 +1,10 @@
+// All combination of 1,2,3
 #include<stdio.h>
 int main()
 {
     int n,i,x;
     printf("Combination!!\n");
+    // Loop in Loop in Loop(3 level)
     for(n=1;n<=3;n++)
     {
         for(i=1;i<=3;i++)

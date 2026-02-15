@@ -1,3 +1,5 @@
+// Sum of n/fact(n) for n=1 to 7
+// good logic for loop in loop
 #include<stdio.h>
 int main()
 {

@@ -1,3 +1,6 @@
+/* Sir Ramanujan number (1729) is the smallest number that can be expressed 
+as the sum of two cubes in two different ways.
+Write a program to find the pairs of numbers whose cubes add up to 1729.*/
 #include<stdio.h>
 #include<math.h>
 int main()

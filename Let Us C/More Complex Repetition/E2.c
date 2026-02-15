@@ -1,3 +1,4 @@
+// Write a program to print the following table:
 #include<stdio.h>
 int main()
 {
@@ -9,6 +10,7 @@ int main()
         for(x=5.5;x<=12.5;x+=0.5)
         {
             i = 2 + (y + (0.5*x));
+            // i = 2 + (y + (0.5*x));
             printf("%d\t%.2f\t %.2f\n",y,x,i);
         }
     }

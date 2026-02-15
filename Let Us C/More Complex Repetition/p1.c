@@ -1,3 +1,5 @@
+// All Prime Number from 1 to 300
+// Good Question for Loop in Loop
 #include<stdio.h>
 int main()
 {
