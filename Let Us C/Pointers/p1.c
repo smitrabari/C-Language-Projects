@@ -15,11 +15,15 @@ int main()
 void cal(int *sum,int *avg,float *stdev)
 {
     int n1,n2,n3,n4,n5;
-    printf("Enter 5 number: ");
+    printf("Enter 1 number: ");
     scanf("%d",&n1);
+    printf("Enter 2 number: ");
     scanf("%d",&n2);
+    printf("Enter 3 number: ");
     scanf("%d",&n3);
+    printf("Enter 4 number: ");
     scanf("%d",&n4);
+    printf("Enter 5 number: ");
     scanf("%d",&n5);
     *sum = n1+n2+n3+n4+n5;
     *avg = *sum/5;
