@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+void hanoi(int n, char A, char B, char C)
+{
+    if(n == 1)
+    {
+        printf("Move disk 1 from %c to %c\n", A, C);
+        return;
+    }
+
+    hanoi(n - 1, A, C, B);   // Step 1
+    printf("Move disk %d from %c to %c\n", n, A, C); // Step 2
+    hanoi(n - 1, B, A, C);   // Step 3
+}
+
+int main()
+{
+    int disks = 4; // You can change the number of disks here
+    hanoi(disks, 'A', 'B', 'C'); 
+    return 0;
+}
