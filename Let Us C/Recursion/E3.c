@@ -4,7 +4,7 @@ void hanoi(int n, char A, char B, char C)
 {
     if(n == 1)
     {
-        printf("Move disk 1 from %c to %c\n", A, C);
+        printf("Move disk 1 from %c to %c\n", A, C); // Base case: Move the single disk from A to C
         return;
     }
 
