@@ -16,6 +16,6 @@ void hanoi(int n, char A, char B, char C)
 int main()
 {
     int disks = 4; // You can change the number of disks here
-    hanoi(disks, 'A', 'B', 'C'); 
+    hanoi(disks, 'A', 'B', 'C'); // A is the source, B is the auxiliary, and C is the destination
     return 0;
 }
