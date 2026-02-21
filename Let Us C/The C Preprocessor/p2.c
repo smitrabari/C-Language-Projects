@@ -1,3 +1,4 @@
+// calculator for finding areas and perimeters!!
 #include<stdio.h>
 #define PI 3.14
 #define pericle(r) (2*PI*r)
