@@ -1,3 +1,4 @@
+// calculator for finding perimeter and area of circle, square and triangle using function like macros  
 #include<stdio.h>
 #define PI 3.14
 #define pericle(r) (2*PI*r)
