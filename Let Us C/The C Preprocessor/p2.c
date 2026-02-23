@@ -1,12 +1,8 @@
 // calculator for finding perimeter and area of circle, square and triangle using function like macros  
 #include<stdio.h>
-#define PI 3.14 // function like macros
-#define pericle(r) (2*PI*r)
-#define areacircle(r) (PI*r*r)
-#define perisquare(a) (4*a)
-#define areasquare(a) (a*a)
-#define peritriangle(a,b,c) (a+b+c)
-#define areatriangle(b,h) (0.5*b*h)
+#include "areaperi.h" 
+// including header file which contains function 
+// like macros for area and perimeter of circle, square and triangle
 int main()
 {
     float r,a;
