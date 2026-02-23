@@ -1,3 +1,4 @@
+// shifting the values of variable to the right side!
 #include<stdio.h>
 void shift(int *a,int *b,int *c);
 int main()
