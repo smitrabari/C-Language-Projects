@@ -1,4 +1,5 @@
-#define PI 3.14 // function like macros
+// function like macros
+#define PI 3.14 
 #define pericle(r) (2*PI*r)
 #define areacircle(r) (PI*r*r)
 #define perisquare(a) (4*a)
