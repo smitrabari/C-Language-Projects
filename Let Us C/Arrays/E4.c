@@ -1,5 +1,5 @@
 // sorting an array of 25 numbers using insertion sort
-//Issue
+//Issue 
 #include <stdio.h>
 int main()
 {
