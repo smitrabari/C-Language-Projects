@@ -1,7 +1,7 @@
 // sorting an array of 25 numbers using insertion sort
 // Issue in understanding the insertion sort algorithm!!
 #include <stdio.h>
-int main()
+int main(void)
 {
     int arr[25]; // array to store 25 numbers
     int i, j, key;
